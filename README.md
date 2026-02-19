@@ -1,6 +1,6 @@
-# Reflexy Legal Pages
+# Reflexa Legal Pages
 
-Public legal pages for the Reflexy app.
+Public legal pages for the Reflexa app.
 
 - Privacy Policy: `privacy.html`
 - Terms of Use: `terms.html`
