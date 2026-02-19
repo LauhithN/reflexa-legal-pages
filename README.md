@@ -3,6 +3,7 @@
 Public legal pages for the Reflexa app.
 
 - Privacy Policy: `privacy.html`
+- Support: `support.html`
 - Terms of Use: `terms.html`
 
 Designed to be hosted on GitHub Pages.
